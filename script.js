@@ -6,16 +6,14 @@ $(document).ready(function() {
       title: "DAPHNE HONMA",
       desc: "CONCERT PIANIST : MUSICAL DIRECTOR"
     }, {
-      title: "Lorem ipsum",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+      title: "A CURATOR OF UNFORGETTABLE MOMENTS",
+      desc: "musical Centerpieces and visions of sophistication \r\n"
     }, {
-      title: "dolor sit amet",
-      desc: "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      title: "UNA DELIZIA PER L'ANIMA",
+      desc: "delicate, enchanting melodies, intimate and alluring atmostpheres"
     }, {
-      title: "Grouping example",
-      desc: [
-        ["<u>Grouped text</u>"], " separate text".split("")
-      ]
+      title: "PURE EXISTENTIAL BEAUTY",
+      desc: "CURRICULUM VITAE | DK.HONMA@GMAIL.COM"
     }];
     var currentPage = 0;
     //generate content
